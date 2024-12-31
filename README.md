@@ -20,8 +20,8 @@
 - <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /> **Firebase**
 - <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" /> **Blender**
 
-NOTE: My portfolio is under construction.
-📄 <span style="color:#1E90FF;">**[View My Full Resume](https://www.yourwebsite.com/resume)**</span>
+NOTE: My portfolio is under construction. You check out the repository below, I'll be pushing regular updates. 
+📄 <span style="color:#1E90FF;">**[View repository: ]()**</span>
 
 ---
 
