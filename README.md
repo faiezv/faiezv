@@ -10,11 +10,11 @@
  🖥️ ![GitHub Badge](https://img.shields.io/badge/GitHub-@faiezv-003366?style=flat-square&logo=github&logoColor=white)  
 
 ---
-**Let’s connect and make something amazing together!** 🚀
+ 
+### **Let’s connect and make something amazing together!** 🚀
+
 ---
-
 ### Skills & Expertise
-
 #### _Frontend Development_
 > I am currenly learning the following in order to run performance intensive calculations:
 > <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
